@@ -1,17 +1,17 @@
 ---
-Personal Portfolio Website
+## Personal Portfolio Website
 
 This is my personal portfolio website showcasing my projects, skills, and basic information. It is built using HTML and CSS and deployed using GitHub Pages.
 
 ---
 
-🔗 Live Website
+## 🔗 Live Website
 
 👉 [https://jatingarg2006.github.io/portfolio/](https://jatingarg2006.github.io/portfolio/)
 
 ---
 
-📌 Features
+## 📌 Features
 
 * Clean and simple user interface
 * Responsive layout
@@ -20,32 +20,32 @@ This is my personal portfolio website showcasing my projects, skills, and basic 
 
 ---
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 * HTML
 * CSS
 
 ---
 
-📂 Projects Included
+## 📂 Projects Included
 
 * CGPA Calculator
 
 ---
 
-🚀 Deployment
+## 🚀 Deployment
 
 This project is deployed using GitHub Pages and is publicly accessible through the link above.
 
 ---
 
-📬 Contact
+## 📬 Contact
 
 GitHub: [https://github.com/jatingarg2006](https://github.com/jatingarg2006)
 
 ---
 
-🧠 Note
+## 🧠 Note
 
 This portfolio is continuously being improved with better design, projects, and functionality.
 
